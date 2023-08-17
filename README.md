@@ -21,5 +21,6 @@ What is rock, paper and scissors?
 💫Rock wins over scissors, scissors win over paper and paper wins over rock. With the understanding of the rules, we can proceed to create the game.
 
 
-Thank you!!✌️
+Thank you!!✌️![CartoonsBeingIanGIF](https://github.com/Samvruthabalavenkatraman/Stone-paper-scissors-game/assets/141299488/e532a91d-d23d-48f2-9f68-0afadaf2a4f8)
+
 
